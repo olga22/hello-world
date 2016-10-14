@@ -1,2 +1,3 @@
 # hello-world
-Just first repository here
+
+Olga here. I like Javascript and rats.
